@@ -17,11 +17,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="42" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/R-V-L/R-V-L/output/snake.svg" alt="Snake animation" />
-
-###
